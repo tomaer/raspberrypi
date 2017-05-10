@@ -1,5 +1,11 @@
 # 玩转Raspberry PI
 
+安装好树莓派要做的几件事情
+ - sudo raspi-config
+   ![](./docs/raspi-config.png =200x60)
+
+
+
 ### 树莓派开启VNC Server 服务端
 
 ```
