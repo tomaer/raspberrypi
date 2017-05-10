@@ -3,7 +3,7 @@
 安装好树莓派要做的几件事情
  - sudo raspi-config
 
-   ![](./docs/raspi-config.png =600x194)
+   ![](../docs/raspi-config.png =600x194)
 
 
 
